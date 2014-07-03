@@ -1,20 +1,20 @@
 JellyPop
 ========
-
+<br>
 An html5 game using createjs - Inspired from a game Crazy Poppers
-
-JellyPop -  v1.0
-Design and Coded by: Vincent Palcon
-Link: http://jellypop.vincentpalcon.tk
+<br>
+JellyPop -  v1.0<br>
+Design and Coded by: Vincent Palcon<br>
+Link: http://jellypop.vincentpalcon.tk<br>
 GitHub: http://github.com/vincentpalcon/JellyPop
-
+<br><br>
 This content is released under the MIT License (http://opensource.org/licenses/MIT).
-
-Sounds / Music Credits to:
-http://www.soundbible.com/
-http://www.freegamesound.com
+<br><br>
+Sounds / Music Credits to:<br>
+http://www.soundbible.com/<br>
+http://www.freegamesound.com<br>
 http://www.youtube.com
-
+<br><br>
 Others:
-http://www.createjs.com/
+http://www.createjs.com/<br>
 http://www.jquery.com/
