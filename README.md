@@ -1,6 +1,6 @@
 JellyPop
 ========
-<br>
+
 An html5 game using createjs - Inspired from a game Crazy Poppers
 <br>
 JellyPop -  v1.0<br>
