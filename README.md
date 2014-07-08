@@ -15,6 +15,6 @@ http://www.soundbible.com/<br>
 http://www.freegamesound.com<br>
 http://www.freesfx.co.uk
 <br><br>
-Others:
+Others:<br>
 http://www.createjs.com/<br>
 http://www.jquery.com/
