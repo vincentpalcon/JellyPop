@@ -3,7 +3,10 @@ JellyPop
 
 An html5 game using createjs - Inspired from a game Crazy Poppers
 <br>
-JellyPop -  v1.0<br>
+JellyPop -  v1.3<br>
+- To win the game you must "Pop" all the jelly with a limited # of taps<br>
+- 27 Levels and more soon.<br>
+<br>
 Design and Coded by: Vincent Palcon<br>
 Link: http://jellypop.vincentpalcon.tk<br>
 GitHub: http://github.com/vincentpalcon/JellyPop
