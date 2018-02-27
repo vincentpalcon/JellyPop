@@ -8,7 +8,7 @@ JellyPop -  v1.3<br>
 - 27 Levels and more soon.<br>
 <br>
 Design and Coded by: Vincent Palcon<br>
-Link: http://jellypop.vincentpalcon.tk<br>
+Link: http://vincentpalcon.tk/jellypop<br>
 GitHub: http://github.com/vincentpalcon/JellyPop
 <br><br>
 This content is released under the MIT License (http://opensource.org/licenses/MIT).
